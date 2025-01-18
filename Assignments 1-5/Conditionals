@@ -1,0 +1,9 @@
+# Ask user if today is good or not? y/n
+response = input("Is today a good day?: y/n "). lower()
+if response == 'y':
+    print("yeah it is!")
+elif response == 'n' :
+    print("Maybe tomorrow will be better!")
+else: 
+    print("Please reinput to ensure i have the correct response.")
+

@@ -1,0 +1,5 @@
+Name: john
+color: brown
+pet: faker
+mother: johnny
+school: springfield
